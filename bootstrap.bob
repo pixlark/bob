@@ -1,0 +1,2 @@
+start:
+    g++ -g -Wall -Wpedantic -Werror -Wno-unused-variable bob.cc -o bob
